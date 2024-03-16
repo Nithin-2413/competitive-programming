@@ -10,7 +10,7 @@ import io.github.inflationx.calligraphy3.CalligraphyConfig;
 import io.github.inflationx.calligraphy3.CalligraphyInterceptor;
 import io.github.inflationx.viewpump.ViewPump;
 
-public class AppController extends Application implements ComponentCallbacks2 {
+public class AppContrxtends Application implements ComponentCallbacks2 {
 
     private static AppController mInstance;
 
